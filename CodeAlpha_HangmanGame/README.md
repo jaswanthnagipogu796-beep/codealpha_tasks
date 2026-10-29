@@ -40,8 +40,4 @@ Replace `Hangman.py` with your actual Python filename if it is different.
 - Working with strings and collections.
 - Developing basic game logic.
 
-## Internship
-This project was developed as part of the CodeAlpha Python Internship.
 
-## Author
-N. Jaswanth
