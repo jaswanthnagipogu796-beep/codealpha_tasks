@@ -44,7 +44,3 @@ Replace `portfoliotracker.py` with your actual Python filename if it is differen
 - Working with CSV files.
 - Organizing a small Python project.
 
-
-
-## Author
-N. Jaswanth
